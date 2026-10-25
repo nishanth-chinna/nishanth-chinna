@@ -19,7 +19,7 @@ I am Nishanth Chinnadurai, a master's student in Computational Biology at Weill 
 
 I am currently a Graduate Research Assistant in both the Elemento Lab and Yoffe Lab, working on virtual cell modeling to uncover novel, exhaustion-reversing perturbations for T cells in preinvasive lung adenocarcinoma.
 
-Here are some of the GitHub repos for projects I have collaborated on that are not listed on my profile:
+Here are some of the GitHub repos for projects I have collaborated on, apart from the ones displayed on my profile:
 
 -https://github.com/jtkern/SPaTuLA
 
