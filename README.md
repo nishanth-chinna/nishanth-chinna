@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Nishanth Chinnadurai, a master's student in Computational Biology at Weill Cornell Medicine and a former Bioengineering undergraduate student at Northeastern University.
+I am Nishanth Chinnadurai, a master's student in Computational Biology at Weill Cornell Medicine and a former undergraduate student in Bioengineering at Northeastern University.
 
 I am currently a Graduate Research Assistant in both the Elemento Lab and Yoffe Lab, working on virtual cell modeling to uncover novel, exhaustion-reversing perturbations for T cells in preinvasive lung adenocarcinoma.
 
-Here are some of the GitHub repos for projects I have collaborated on, apart from the ones displayed on my profile:
+Here are some of the GitHub repos for projects I have worked/collaborated on, apart from the ones displayed on my profile:
 
 -SPaTuLA: https://github.com/jtkern/SPaTuLA
 
