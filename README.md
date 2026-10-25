@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! 👋
 
 <!--
 **nishanth-chinna/nishanth-chinna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Nishanth Chinnadurai, a master's student in Computational Biology at Weill Cornell Medicine and a former Bioengineering undergraduate student at Northeastern University.
+
+I am currently a Graduate Research Assistant in both the Elemento Lab and Yoffe Lab, working on virtual cell modeling to uncover novel, exhaustion-reversing perturbations for T cells in preinvasive lung adenocarcinoma.
+
+Here are some of the GitHub repos for projects I have collaborated on that are not listed on my profile:
+
+-https://github.com/jtkern/SPaTuLA
+-https://github.com/shirlsli/deep_learning_hi-c_transformer
