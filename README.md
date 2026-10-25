@@ -21,6 +21,8 @@ I am currently a Graduate Research Assistant in both the Elemento Lab and Yoffe 
 
 Here are some of the GitHub repos for projects I have collaborated on, apart from the ones displayed on my profile:
 
--https://github.com/jtkern/SPaTuLA
+-SPaTuLA: https://github.com/jtkern/SPaTuLA
 
--https://github.com/shirlsli/deep_learning_hi-c_transformer
+-"Deep Learning in Biology" Final Project: https://github.com/shirlsli/deep_learning_hi-c_transformer
+
+-"Analysis of Next-Generation Sequencing Data" Final Project: https://github.com/nishanthchinna/angsd
