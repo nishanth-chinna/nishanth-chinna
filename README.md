@@ -23,6 +23,6 @@ Here are some of the GitHub repos for projects I have worked/collaborated on, ap
 
 -SPaTuLA: https://github.com/jtkern/SPaTuLA
 
--"Deep Learning in Biology" Final Project: https://github.com/shirlsli/deep_learning_hi-c_transformer
+-"Deep Learning in Biology" Final Class Project: https://github.com/shirlsli/deep_learning_hi-c_transformer
 
--"Analysis of Next-Generation Sequencing Data" Final Project: https://github.com/nishanthchinna/angsd
+-"Analysis of Next-Generation Sequencing Data" Final Class Project: https://github.com/nishanthchinna/angsd
